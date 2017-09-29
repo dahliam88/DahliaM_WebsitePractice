@@ -1,0 +1,38 @@
+*,
+*:before,
+*:after
+{
+   -moz-box-sizing: border-box;
+   box-sizing: border-box;
+}
+
+.island
+{
+   display: block;
+   max-width: 90%;
+   margin: 0 auto;
+   background-color: gray;
+}
+
+body
+{
+   background-color: lightgray;
+   color: #FFFFFF;
+   font-family: 'Lato';
+}
+
+h4
+{
+   padding-left: 5%;
+   display: block;
+   color: firebrick;
+   margin-bottom: 6px;
+   font-family: 'Lato';
+   font-weight: 700;
+   font-size: 20px;
+}
+
+a
+{
+   color: #FFFFFF;
+}
